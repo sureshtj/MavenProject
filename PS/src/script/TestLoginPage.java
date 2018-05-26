@@ -30,6 +30,8 @@ public class TestLoginPage extends BaseTest {
 		  p.setPassword(pw);
 		  p.clickLogin();
 		  p.verifyHomePageisDisplayed();
+		  
+		  
 				  }	  
 		
 				  }
